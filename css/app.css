@@ -10175,7 +10175,7 @@ body.onscroll .scroll-offset {
     margin-bottom: 0;
   }
 }
-@media (max-width: 375px) {
+@media (min-width: 321px) {
   .box-nav.onscroll {
     margin: 0;
     padding: 0;
