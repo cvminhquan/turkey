@@ -1,0 +1,49 @@
+// font
+//================= global
+// Color
+$color-primary: #014494;
+$color-pr-thin: rgba(23, 113, 219, 0.3);
+$color-pr-red: #C91E29;
+$color-pr-dark: #767676; // color of text
+$color-pr-grey: #828282;
+$color-pr-thin-grey: #A4A4A4;
+$color-secondary: #575757;
+$color-sd-dark: #231F20;
+$color-sd-purple: #6679B0;
+$color-sd-thin-purple: #E1E9F2;
+$color-sd-light-purple: #F1F5F9;
+$color-sd-grey: #D4DCE7;
+$color-brand: #575757;
+$color-br-half: rgba(0, 31, 123, 0.5);
+$color-red: #ED1C24;
+$color-dark-red: #A8161C;
+$color-light-green: #52C234;
+$color-bd-light: #F2F2F2;
+$color-bg-light: #F6F6F6;
+$color-dark: #363636;
+$color-text-status: #1383EA;
+
+// font
+$font-family: 'Roboto',
+sans-serif;
+$font-sz: 16px;
+$font-sz-sm: $font-sz - 2px; // 14px
+$font-sz-xs: $font-sz - 4px; // 12 px
+$font-sz-lg: $font-sz+2px; // 18px
+$font-sz-xl: $font-sz+8px; // 24px
+$font-thin: 300;
+$font-normal: 400;
+$font-medium: 500;
+$font-bolder: 700;
+// Shadow
+$shadow-1: 0px 4px 10px rgba(0, 0, 0, 0.1);
+$shadow-2: 0px 4px 10px rgba(0, 0, 0, 0.05);
+$shadow-3: 10px 0px 30px rgba(0, 0, 0, 0.1);
+// transition
+$transition: all 0.3s;
+// ============ form 
+// color
+$form-border: #D4DCE7;
+$text-base: #A4A4A4;
+// radius 
+$base-radius: 10px;
